@@ -1,5 +1,5 @@
 {
-    "name": "Emotion Badge tutorial",
+    "name": "micro:bit tutorials",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,19 +8,6 @@
     },
     "files": [
         "emotion-badge.md",
-        "README.md"
-    ]
-}
-
-{
-    "name": "Calming LEDs tutorial",
-    "description": "",
-    "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
-    },
-    "files": [
         "calming-LEDs.md",
         "README.md"
     ]
