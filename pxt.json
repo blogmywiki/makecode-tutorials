@@ -1,0 +1,13 @@
+{
+    "name": "Emotion Badge tutorial",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "emotion-badge.md",
+        "README.md"
+    ]
+}
