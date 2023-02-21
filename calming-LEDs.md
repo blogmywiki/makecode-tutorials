@@ -102,6 +102,7 @@ to show a dot again.
 
 ```blocks
 basic.forever(function () {
+    music.playTone(262, music.beat(BeatFraction.Whole))
     basic.pause(2000)
     basic.showLeds(`
         . . . . .
